@@ -1,0 +1,2 @@
+# WebPortfolio21
+This is the full draft version of my Web Portfolio.  The plan for the remaining revisions are to clean up some of the boxes at the bottom of the pages.  The main thing I want to work on is having the navigation bar on all of the pages rather than just on the home page.  I realy like the background image and the color scheme, I think it gives a professional but also welcoming feel to the design.  My page is almost finished, but I do want to get some feedback and make some small changes to the design and accessibility features.  
