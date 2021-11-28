@@ -1,0 +1,50 @@
+  h1{
+    color:black;}
+  h1{
+    text-align:center;}
+  h1{
+    font-family:"Times New Roman",serif;
+    font-size:35px;}
+  h1{
+    padding:75px;}
+.navigation{
+  max-width: 1000px;
+  float: none;
+  margin:auto;
+  border-radius:10px;
+  background-image: url("images/cherry2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;}
+.main{
+    max-width:1000px;
+    float:none;
+    margin:auto;
+    border-radius:10px;
+    background-color: #EBEBEB;
+    text-align:center}
+  img.align-center{
+    display:block;
+  }
+.resume{max-width:1000px;
+  float:none;
+  margin:auto;
+  border-radius:10px;
+  background-color: #EBEBEB;
+  text-align:center;}
+.main2{
+  max-width:1000px;
+  float:none;
+  margin:auto;
+  border-radius:10px;
+  background-color: #EBEBEB;
+  text-align:center;}
+
+.log{
+  max-width:1000px;
+  float:none;
+  margin:auto;
+  border-radius:10px;
+  background-color: #EBEBEB;
+  text-align:left;
+  padding-top:10px;
+  padding-bottom: 20px;}
